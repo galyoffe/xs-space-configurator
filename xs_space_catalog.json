@@ -1,0 +1,142 @@
+[
+  {
+    "sku": "launch_and_platform_leo_3u_basic",
+    "name": "Launch & Platform (LEO 3U Basic)",
+    "category": "pass_through",
+    "price_usd": 385000.0,
+    "note": "Standard LEO rideshare 3U satellite with basic comms"
+  },
+  {
+    "sku": "launch_and_platform_leo_6u_high-end",
+    "name": "Launch & Platform (LEO 6U High-End)",
+    "category": "pass_through",
+    "price_usd": 935000.0,
+    "note": "6U platform with advanced ADCS and high-bandwidth downlink"
+  },
+  {
+    "sku": "launch_and_platform_iss_3u_90_days",
+    "name": "Launch & Platform (ISS 3U, 90 days)",
+    "category": "pass_through",
+    "price_usd": 352000.0,
+    "note": "ISS hosted experiment, includes launch, ops, safety"
+  },
+  {
+    "sku": "ait_and_testing_standard",
+    "name": "AIT & Testing (Standard)",
+    "category": "service_ait",
+    "price_usd": 100000.0,
+    "note": "Standard vibe + TVAC + fit checks"
+  },
+  {
+    "sku": "ait_and_testing_extended_for_deep_space",
+    "name": "AIT & Testing (Extended for Deep Space)",
+    "category": "service_ait",
+    "price_usd": 300000.0,
+    "note": "Includes deep space qualified environmental testing"
+  },
+  {
+    "sku": "operations_30_days_leo",
+    "name": "Operations (30 days, LEO)",
+    "category": "service_ops",
+    "price_usd": 50000.0,
+    "note": "Nominal ops + downlink + data pack (LEO)"
+  },
+  {
+    "sku": "operations_90_days_iss",
+    "name": "Operations (90 days, ISS)",
+    "category": "service_ops",
+    "price_usd": 75000.0,
+    "note": "Long-duration ops with minimal astronaut time"
+  },
+  {
+    "sku": "regulatory_and_safety_1_filing",
+    "name": "Regulatory & Safety (1 Filing)",
+    "category": "service_regulatory",
+    "price_usd": 20000.0,
+    "note": "Includes export and basic RF/spectrum filing"
+  },
+  {
+    "sku": "regulatory_extra_filings_e.g._noaa",
+    "name": "Regulatory (Extra Filings, e.g. NOAA)",
+    "category": "service_regulatory",
+    "price_usd": 20000.0,
+    "note": "Optional second filing for optical/radar imaging"
+  },
+  {
+    "sku": "data_handling_standard",
+    "name": "Data Handling (Standard)",
+    "category": "option",
+    "price_usd": 0.0,
+    "note": "Included in base comm plan"
+  },
+  {
+    "sku": "data_handling_high-volume_x-band",
+    "name": "Data Handling (High-volume, X-band)",
+    "category": "option",
+    "price_usd": 50000.0,
+    "note": "Charged only for high data volume users"
+  },
+  {
+    "sku": "insurance_launch_optional",
+    "name": "Insurance (Launch, optional)",
+    "category": "pass_through",
+    "price_usd": 50000.0,
+    "note": "Optional, ~10% of mission cost"
+  },
+  {
+    "sku": "insurance_in-orbit_optional",
+    "name": "Insurance (In-orbit, optional)",
+    "category": "pass_through",
+    "price_usd": 60000.0,
+    "note": "Optional depending on user needs"
+  },
+  {
+    "sku": "propulsion_add-on_electric",
+    "name": "Propulsion Add-on (Electric)",
+    "category": "option",
+    "price_usd": 450000.0,
+    "note": "Adds EP module to bus"
+  },
+  {
+    "sku": "adcs_upgrade_precision_pointing",
+    "name": "ADCS Upgrade (Precision Pointing)",
+    "category": "option",
+    "price_usd": 495000.0,
+    "note": "Advanced pointing for fine imaging/RF"
+  },
+  {
+    "sku": "extended_operations_per_30_days",
+    "name": "Extended Operations (per 30 days)",
+    "category": "service_ops",
+    "price_usd": 20000.0,
+    "note": "Used for additional mission duration"
+  },
+  {
+    "sku": "encryption_add-on",
+    "name": "Encryption Add-on",
+    "category": "option",
+    "price_usd": 400000.0,
+    "note": "Secure comms layer with certification"
+  },
+  {
+    "sku": "base_xs.space_services_leo/iss",
+    "name": "Base XS.Space Services (LEO/ISS)",
+    "category": "service_base",
+    "price_usd": 270000.0,
+    "note": "XS.Space full service for LEO/ISS (pre-subsidy)"
+  },
+  {
+    "sku": "base_xs.space_services_deep_space",
+    "name": "Base XS.Space Services (Deep Space)",
+    "category": "service_base",
+    "price_usd": 580000.0,
+    "note": "Base tier for DS demos (excludes transfer)"
+  },
+  {
+    "sku": "rush_processing_+20%",
+    "name": "Rush Processing (+20%)",
+    "category": "multiplier",
+    "price_usd": 0.2,
+    "note": "Apply 20% to service subtotal if rush timeline"
+  }
+]
